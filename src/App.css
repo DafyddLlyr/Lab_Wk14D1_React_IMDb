@@ -8,4 +8,31 @@ body {
 
 #upcoming-releases {
   width: 50vw;
+  background-color: lightgrey;
+  border: 2px solid black;
+  padding: 2vw;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+#upcoming-button {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 1.5vw;
+  display: block;
+  border: 1px solid black;
+  background-color: lightblue;
+}
+
+hr {
+  margin: 2vw;
+  border-bottom: 1px solid grey;
+}
+
+ul {
+  margin: 0;
 }

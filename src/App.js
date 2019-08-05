@@ -7,11 +7,11 @@ import UpcomingButton from './components/UpcomingButton'
 function App() {
   return (
     <div id="upcoming-releases">
-      <Header />
-      <hr />
-      <FilmList />
-      <hr />
-      <UpcomingButton />
+      <Header/>
+      <hr/>
+      <FilmList/>
+      <hr/>
+      <UpcomingButton/>
     </div>
   );
 }
